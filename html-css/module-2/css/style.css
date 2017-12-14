@@ -29,7 +29,6 @@ body{
 .title2{
     margin-bottom: 15px;
 }
-
 .list{
     display: inline-block;
     vertical-align: top;
@@ -38,7 +37,7 @@ body{
     font-size: 16px;
     padding-left: 15px;
 }
-.list>li:before {
+.list>li:before{
     content:"\2192  ";
     color: aqua;
 }
@@ -47,7 +46,6 @@ body{
     width: 420px;
     margin: 0 auto 13px;
 }
-
 .box2{
     padding-bottom: 40px;
     border-bottom: 1px solid black;
@@ -61,7 +59,6 @@ body{
 .box1{
     margin-bottom: 30px;
 }
-
 .article-list>li{
     margin-bottom: 10px;
     list-style: none;
