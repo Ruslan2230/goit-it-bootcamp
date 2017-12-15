@@ -3,73 +3,100 @@
     padding: 0;
     margin: 0;
 }
-body{
-    background-image: url("https://wallpapershome.com/images/wallpapers/ocean-5120x2880-5k-4k-wallpaper-8k-shore-beach-clouds-sky-5518.jpg");
+
+.wrapper {
+    /*height: 100vh;*/
+    /*tum4asovo zadaem h*/
+    background-image: url("../image/page-bg.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-    padding-top: 70px;
-    padding-bottom: 70px;
+    padding: 100px 0;
 }
-.wrapper{
-    padding: 30px;
-    margin: auto;
-    background-color: white;
+
+.content {
+    font-family: Arial sans-serif;
     width: 480px;
+    /*height: 700px;*/
+    background-color: #fff;
+    margin: auto;
+    padding: 60px 37px 44px;
 }
-.color{
-    color: cadetblue;
+
+.title {
+    font-family: 'Pathway Gothic One', sans-serif;
+    text-transform: uppercase;
+    color: #263555;
+    font-size: 25px;
+    margin-bottom: 27px;
 }
-.title1{
-    margin-bottom: 20px;
+
+.plane {
+    display: inline-block;
+    margin: 0 auto 27px;
 }
-.p4{
-    margin-bottom: 6x;
+
+.sub-title {
+    font-size: 14px;
+    color: #263555;
+    line-height: 19px;
+    margin-bottom: 22px;
 }
-.title2{
+.sub-title-mod {
     margin-bottom: 15px;
 }
-.list{
+
+.text {
+    font-size: 12px;
+    color: #4e5050;
+    line-height: 17px;
+}
+
+.article{
+    margin-bottom: 51px;
+}
+
+.article-second {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 52px;
+}
+
+.article-text {
+    margin-bottom: 37px;
+}
+
+.article:last-child {
+    margin-bottom: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+.list-article-item {
+    margin-bottom: 25px;
+}
+
+.list-article-item:last-child {
+    margin-bottom: 0;
+}
+
+.list-item {
+    font-size: 14px;
+    color: #263555;
+    line-height: 19px;
+    margin-bottom: 18px;
+}
+
+.list {
     display: inline-block;
     vertical-align: top;
-    line-height: 2.1;
-    list-style: none;
-    font-size: 16px;
-    padding-left: 15px;
 }
-.list>li:before{
-    content:"\2192  ";
-    color: aqua;
+
+.list-item:last-child {
+    margin-bottom: 0;
 }
-.plane{
-    display: block;
-    width: 420px;
-    margin: 0 auto 13px;
+.list:last-child {
+    margin-left: 50px;
 }
-.box2{
-    padding-bottom: 40px;
-    border-bottom: 1px solid black;
-}
-.box4{
-    font-size:0;
-}
-.box3{
-    margin-top: 50px;
-}
-.box1{
-    margin-bottom: 30px;
-}
-.article-list>li{
-    margin-bottom: 10px;
-    list-style: none;
-}
-.content{
-    margin-bottom: 30px;
-}
-.second{
-    margin-left: 30px;
-    padding: 0;
-}
-.text{
-    padding-right: 56px;
-}
+
