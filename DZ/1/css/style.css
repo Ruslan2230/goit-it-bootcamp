@@ -1,0 +1,267 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper{
+    background-image: url("../img/Layer1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 0 32px;
+    height: 1305px;
+}
+
+.content{
+    font-family: Arial sans-serif;
+    background-color: rgba(87, 103, 127, 0.5);
+    color: #fff;
+    width: 1000px;
+    padding: 15px 17px 17px 12px;
+    border: 1px solid #67707d;
+    border-radius: 3px;
+    margin: auto;
+    text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.75);
+}
+
+.header{
+    border-radius: 3px;
+    background: -webkit-linear-gradient(90deg, #e4e4e4 0%, #f2f2f2 100%);
+    background: linear-gradient(0deg, #e4e4e4 0%, #f2f2f2 100%);
+    box-shadow: 1px 3px 2px 0px rgba(0, 0, 0, 0.3);
+    width: 1000px;
+    height: 45px;
+    margin: auto;
+    padding: 8px 0 17px 3px;
+    margin-bottom: 19px;
+}
+
+.nav {
+    width: 485px;
+    margin-left: 300px;
+    font-size: 18px;
+    display: inline-block;
+    color: rgba(164, 95, 147, 255);
+    text-align: right;
+}
+
+.nav-item {
+    display: inline-block;
+}
+
+.nav-link {
+    font-size: 14px;
+    font-weight: 700;
+    padding-top: 7px;
+    padding-right: 35px;
+    text-decoration: none;
+    display: block;
+    vertical-align: middle;
+}
+.color{
+  color: #a45f93;
+}
+
+.img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.box {
+    display: inline-block;
+}
+
+.sidebar {
+    width: 220px;
+    float: left;
+}
+
+.sidebar-box1 {
+    font-size: 14px;
+    margin-bottom: 24px;
+    border-radius: 3px;
+    background-color:  #373e47;
+    box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+    border-top: 2px solid #2a3037;
+}
+
+.sidebar-box2 {
+    background-color: #373e47;
+    font-size: 13px;
+    padding: 15px 16px 14px 9px;
+    border-top: 2px solid #2a3037;
+    border-radius: 3px;
+    border-bottom: 1px solid #4b535e;
+    box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.3);
+}
+
+.sidebar-box2-p {
+    margin-bottom: 33px;
+}
+
+.title-sidebar {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+a.link {
+    text-align: right;
+    padding-left: 128px;
+    color: rgba(255, 141, 227, 255);
+}
+
+.link-box {
+    color: rgba(255, 141, 227, 255);
+}
+
+.list-li {
+    padding: 13px 20px 11px 12px;
+    border-bottom: 1px solid #4b535e;
+}
+
+.list-li:before{
+    content: "\9658  ";
+    color: rgba(255, 141, 227, 255);
+    margin-right: 13px;
+}
+
+.list,.sub-block-end {
+    list-style: none;
+}
+
+.sub-block {
+    margin-right: 30px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.box {
+    width: 720px;
+    margin-bottom: 30px;
+}
+
+.table-main {
+    background-color: #292e35;
+}
+
+td {
+    text-align: left;
+    background-color: #373e47;
+}
+
+table, th, td {
+    border: 1px solid #4b535e;
+    color:  #e4e4e4;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: justify;
+    padding: 11px 50px 10px 10px;
+}
+
+.table {
+    width: 732px;
+    height: 153px;
+    border-collapse: collapse;
+    border-color:  #292e35;
+    background-color:  #373e47;
+    border-radius: 3px;
+}
+
+/*.table-tr:hover {*/
+    /*background-color: white;*/
+/*}*/
+
+footer {
+    color: white;
+    text-align: center;
+    margin-top: 12px;
+}
+
+.button {
+    /*margin-bottom: 15px;*/
+    display: block;
+}
+
+.form {
+    margin-bottom: 21px;
+}
+
+.form-text {
+    margin-bottom: 10px;
+}
+
+.checkbox,.radio {
+    display: inline-block;
+}
+
+.box {
+    padding-left: 19px;
+}
+
+.title {
+    margin-bottom: 12px;
+    font-size: 18px;
+}
+.text-p {
+    font-size: 13px;
+}
+.box1 {
+    margin-bottom: 9px;
+}
+
+.all-pic {
+    font-size: 0;
+    display: inline-block;
+}
+
+.pic {
+    width: 215px;
+    height: 170px;
+    border: 10px solid #697689;
+    margin-right: 18px;
+}
+
+.list-item {
+    font-size: 13px;
+}
+
+.h4 {
+    margin-bottom: 16px;
+}
+.h {
+    margin-left: -17px;
+}
+
+span {
+    font-style: italic;
+}
+.text {
+    font-size: 13px;
+    margin-bottom: 2px;
+}
+
+.input-text,.select {
+    margin-bottom: 13px;
+}
+
+.checkbox {
+    margin-bottom: 13px;
+}
+
+.radio {
+    margin-bottom: 18px;
+    color: #9c9c9c;
+}
+
+.input-text {
+    padding: 10px 139px 8px 9px;
+    border-radius: 3px;
+}
+
+.textarea {
+    margin-bottom: 15px;
+}
+
+.box-form {
+    margin-bottom: 10px;
+}
