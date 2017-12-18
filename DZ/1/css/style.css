@@ -9,7 +9,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding: 20px 0 32px;
-    height: 1305px;
+    height: 1315px;
 }
 
 .content{
@@ -119,9 +119,9 @@
     margin-bottom: 20px;
 }
 
-a.link {
+.link {
     display: block;
-    margin: 0 10px 5px 117px;
+    text-align: right;
     color: rgba(255, 141, 227, 255);
 }
 
