@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.box {
+    font-size: 20px;
+    border-radius: 3px;
+    width: 900px;
+    height: 100px;
+    background: yellow;
+    margin: auto;
+    text-align: center;
+
+}
+
+.li-item {
+    display: inline-block;
+    margin-right: 60px;
+    text-align: center;
+    line-height: 45px;
+
+}
+
+.list {
+    height: 45px;
+    text-align: center;
+    list-style: none;
+
+    border-right: 20px;
+}
+
+.a {
+    text-decoration: none;
+    text-align: center;
+}
+
+.li-item:hover{
+    display: inline-block;
+    height: 45px;
+    width: 50px;
+    color: mediumvioletred;
+    text-align: center;
+
+}
+
+

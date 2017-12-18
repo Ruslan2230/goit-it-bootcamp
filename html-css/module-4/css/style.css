@@ -202,3 +202,6 @@ article {
 .sms {
     outside: 1px solid black;
  }
+.link {
+    display: block;
+}

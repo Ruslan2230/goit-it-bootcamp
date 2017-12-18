@@ -32,13 +32,12 @@
     width: 1000px;
     height: 45px;
     margin: auto;
-    padding: 8px 0 17px 3px;
     margin-bottom: 19px;
 }
 
 .nav {
-    width: 485px;
-    margin-left: 300px;
+    height: 45px;
+    margin-left: 200px;
     font-size: 18px;
     display: inline-block;
     color: rgba(164, 95, 147, 255);
@@ -47,19 +46,35 @@
 
 .nav-item {
     display: inline-block;
+    margin-right: 60px;
+    width: 40px;
 }
 
 .nav-link {
+    display: block;
+    width: 70px;
     font-size: 14px;
     font-weight: 700;
-    padding-top: 7px;
-    padding-right: 35px;
     text-decoration: none;
-    display: block;
     vertical-align: middle;
+    padding: 15px 15px;
+    text-align: center;
 }
 .nav-link:hover{
-  color: #a45f93;
+    display: block;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+    vertical-align: middle;
+    padding: 15px 15px;
+    text-align: center;
+    color: #a45f93;
+}
+.nav-item:hover {
+    display: inline-block;
+    margin-right: 60px;
+
+    color: #a45f93;
 }
 
 .img {
@@ -105,8 +120,8 @@
 }
 
 a.link {
-    text-align: right;
-    padding-left: 128px;
+    display: block;
+    margin: 0 10px 5px 117px;
     color: rgba(255, 141, 227, 255);
 }
 
@@ -251,10 +266,12 @@ span {
 .radio {
     margin-bottom: 18px;
     color: #9c9c9c;
+
 }
 
 .input-text {
-    padding: 10px 139px 8px 9px;
+    width: 250px;
+    height: 30px;
     border-radius: 3px;
 }
 
@@ -264,4 +281,14 @@ span {
 
 .box-form {
     margin-bottom: 10px;
+}
+
+div.all-pic>img:last-child {
+    margin-right: 0;
+}
+
+.select {
+    width: 200px;
+    height: 30px;
+    display: block;
 }
