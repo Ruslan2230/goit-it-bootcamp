@@ -19,7 +19,7 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/../../html-css/module-4/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="624">
+                <state relative-caret-position="602">
                   <caret line="38" column="193" lean-forward="true" selection-start-line="38" selection-start-column="193" selection-end-line="38" selection-end-column="193" />
                   <folding />
                 </state>
@@ -29,8 +29,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="387">
-                  <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+                <state relative-caret-position="713">
+                  <caret line="60" column="9" lean-forward="false" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
                   <folding />
                 </state>
               </provider>
@@ -143,12 +143,12 @@
       <workItem from="1513344182019" duration="18686000" />
       <workItem from="1513363286071" duration="64000" />
       <workItem from="1513368380376" duration="71093000" />
-      <workItem from="1513580258426" duration="1079000" />
+      <workItem from="1513580258426" duration="1561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90922000" />
+    <option name="totallyTimeSpent" value="91404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -312,7 +312,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../html-css/module-4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
+        <state relative-caret-position="602">
           <caret line="38" column="193" lean-forward="true" selection-start-line="38" selection-start-column="193" selection-end-line="38" selection-end-column="193" />
           <folding />
         </state>
@@ -320,8 +320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        <state relative-caret-position="713">
+          <caret line="60" column="9" lean-forward="false" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
           <folding />
         </state>
       </provider>
