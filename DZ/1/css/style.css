@@ -58,7 +58,7 @@
     display: block;
     vertical-align: middle;
 }
-.color{
+.color:hover{
   color: #a45f93;
 }
 
