@@ -123,12 +123,12 @@
       <workItem from="1513363286071" duration="64000" />
       <workItem from="1513368380376" duration="71093000" />
       <workItem from="1513580258426" duration="12903000" />
-      <workItem from="1513597113002" duration="32805000" />
+      <workItem from="1513597113002" duration="33375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135551000" />
+    <option name="totallyTimeSpent" value="136121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -366,7 +366,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../TASK/task4/index..html">
+    <entry file="file://$PROJECT_DIR$/../../task/task4/index..html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
