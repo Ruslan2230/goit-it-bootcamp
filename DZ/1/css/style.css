@@ -121,7 +121,7 @@
 
 .link {
     display: block;
-
+    text-align: right;
     color: rgba(255, 141, 227, 255);
 }
 
