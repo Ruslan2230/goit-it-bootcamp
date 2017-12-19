@@ -4,12 +4,19 @@
     margin: 0;
 }
 
+.clearfix::after {
+    display: block;
+    content: '';
+    clear: both;
+}
+
 .wrapper {
     background-image: url("../img/page-bg.jpg");
     background-repeat: no-repeat;
     padding: 268px 0 230px;
 }
-.content {
+
+.content-box {
     font-family: Arial sans-serif;
     width: 1024px;
     height: 1300px;
@@ -17,18 +24,20 @@
     margin: auto;
     padding: 117px 71px 88px 61px;
 }
+.content {
+    width: 1024px;
+}
+
 
 .article {
-    position: relative;
-    border-bottom: 1px solid #988b8b;
+    /*border-bottom: 1px solid #988b8b;*/
     vertical-align: top;
 }
 
 .picture {
+    float: left;
     width: 360px;
     height: 281px;
-    display: inline-block;
-    float: left;
     margin-bottom: 23px;
 }
 
@@ -41,8 +50,12 @@
     margin-left: 24px;
 }
 
+.sub-title1 {
+    float: left;
+}
+
 .box2 {
-     text-align: left;
+    text-align: left;
 }
 
 .sub-title1 {
@@ -59,7 +72,6 @@
 }
 
 .sub-title-text {
-    position: absolute;
     top: 140px;
     left: 360px;
     float: left;
@@ -67,23 +79,24 @@
 }
 
 .sub-title-text2 {
-    display: inline-block;
+
     float: left;
 }
 
 .aside {
-    display: inline-block;
+    float: left;
     width: 235px;
     margin-left: 41px;
     margin-top: -120px;
     text-align: left;
-    /*margin-bottom: 200px;*/
+    vertical-align: top;
+
 }
 
 .title {
     font-family: 'Pathway Gothic One', sans-serif;
     margin-bottom: 48px;
-    padding-left: 40px;
+
 }
 
 .text-li {
@@ -125,11 +138,6 @@
     margin-bottom: 0;
 }
 
-.clearfix::after {
-    display: block;
-    content: '';
-    clear: both;
-}
 
 article {
     float: left;
@@ -154,7 +162,7 @@ article {
 }
 
 .list2 {
-    display: inline-block;
+
     vertical-align: top;
     list-style: none;
 }
@@ -195,13 +203,25 @@ article {
     color: aqua;
 }
 
-.list2,.aside2 {
-    float: left;
-}
-
 .sms {
-    outside: 1px solid black;
+    border: 1px solid black;
  }
+
 .link {
     display: block;
 }
+
+.aside2 {
+    float: right;
+    width: 100px;
+}
+
+.ul2 {
+    float: right;
+}
+
+.article2 {
+    display: inline-block;
+    float: left;
+     width: 640px;
+ }

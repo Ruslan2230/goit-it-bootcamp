@@ -5,44 +5,500 @@
 }
 
 .box {
-    font-size: 20px;
-    border-radius: 3px;
-    width: 900px;
-    height: 100px;
-    background: yellow;
+    font-weight: 200;
+    color: blue;
     margin: auto;
-    text-align: center;
-
+    width: 250px;
 }
 
 .li-item {
-    display: inline-block;
-    margin-right: 60px;
-    text-align: center;
+    height: 45px;
+    width: 250px;
     line-height: 45px;
-
+    border: 1px solid blue;
+    margin-bottom: 7px;
 }
 
 .list {
-    height: 45px;
-    text-align: center;
+    margin-top: 90px;
     list-style: none;
-
-    border-right: 20px;
 }
 
 .a {
+    display: block;
+    height: 45px;
     text-decoration: none;
     text-align: center;
 }
 
 .li-item:hover{
+    font-size: 20px;
+    height: 45px;
+    width: 250px;
+    color: mediumblue;
+}
+---------------------------
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.box2 {
+    font-weight: 200;
+    color: #fff;
+    margin: auto;
+    width: 250px;
+}
+
+.li-item2 {
+    height: 45px;
+    width: 250px;
+    line-height: 45px;
+    border: 1px solid black;
+    margin-bottom: 7px;
+    background: #292e35;
+}
+
+.list2 {
+    margin-top: 90px;
+    list-style: none;
+}
+
+.a2 {
+    display: block;
+    height: 45px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.li-item2:hover{
+    font-size: 20px;
+    height: 45px;
+    width: 250px;
+    color: black;
+    background: #fff;
+}
+
+------------------------------
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.box3 {
+    font-weight: 200;
+    color: #fff;
+    margin: auto;
+    width: 850px;
+}
+
+.li-item3 {
     display: inline-block;
     height: 45px;
-    width: 50px;
-    color: mediumvioletred;
+    width: 100px;
+    line-height: 45px;
+
+    margin-bottom: 7px;
+    background: orange;
+}
+
+.list3 {
+    font-size: 0;
+    display: inline-block;
+    margin-top: 90px;
+    list-style: none;
+    height: 45px;
+}
+
+.a3 {
+    font-size: 15px;
+    display: block;
+    height: 45px;
+    text-decoration: none;
     text-align: center;
+}
+
+.li-item3:hover{
+    font-size: 20px;
+    height: 45px;
+    width: 250px;
+    color: #fff;
+    background: red;
+    display: inline-block;
+}
+
+/*:root {*/
+    /*--box1: #ffbdoo;*/
+/*}*/
+
+/*{*/
+    /*background: var(--box1);*/
+/*}*/
+
+/*@import "variable.css"*/
+----------------------------------
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.bx {
+
+    height: 300px;
+    border: 1px solid black;
+    background: #cecece;
+    margin-top: 50px;
+    position: relative;
 
 }
 
+.bx1, .bx2, .bx3 {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
 
+.bx1 {
+    background: red;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+
+.bx2 {
+    background: blue;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
+
+.bx3 {
+    background: green;
+    position: absolute;
+    top: 55%;
+    left: 35%;
+}
+-----------------------------------
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.bxx {
+
+    height: 300px;
+    border: 1px solid black;
+    background: #cecece;
+    margin-top: 50px;
+    position: relative;
+
+}
+
+.bxx1, .bxx2, .bxx3 {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.bxx1 {
+    background: red;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+
+.bxx2 {
+    background: blue;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    z-index: 1;
+}
+
+.bxx3 {
+    background: green;
+    position: absolute;
+    top: 55%;
+    left: 35%;
+}
+----------------------------------
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.bxxx{
+
+    height: 300px;
+    border: 1px solid black;
+    background: #cecece;
+    margin-top: 50px;
+    position: relative;
+}
+
+.bxxx1, .bxxx2, .bxxx3 {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.bxxx1 {
+    background: red;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    z-index: 1;
+}
+
+.bxxx2 {
+    background: blue;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
+
+.bxxx3 {
+    background: green;
+    position: absolute;
+    top: 55%;
+    left: 35%;
+    z-index: 1;
+
+}
+----------------------------------
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.bxxxx{
+    height: 300px;
+    border: 1px solid black;
+    background: #cecece;
+    margin-top: 50px;
+    position: relative;
+
+}
+
+.bxxxx1, .bxxxx2, .bxxxx3 {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.bxxxx1 {
+    background: red;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    z-index: 3;
+}
+
+.bxxxx2 {
+    background: blue;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    z-index: 2;
+}
+
+.bxxxx3 {
+    background: green;
+    position: absolute;
+    top: 55%;
+    left: 35%;
+    z-index: 1;
+
+}
+---------------------------
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.bxxxxx{
+    height: 300px;
+    border: 1px solid black;
+    background: greenyellow;
+    margin-top: 50px;
+    position: relative;
+
+}
+
+.bxxxxx1, .bxxxxx2 {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    background: white;
+}
+
+.bxxxxx1 {
+    position: absolute;
+    top: 10%;
+    right: 90%;
+
+}
+
+.bxxxxx2 {
+    position: absolute;
+    bottom: 10%;
+    left: 90%;
+
+}
+------------------------------
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.bxxxxxx{
+
+    width: 200px;
+    height: 440px;
+    border: 1px solid black;
+    background: #fff;
+
+    position: relative;
+    margin: 50px auto 0;
+
+}
+
+.bxxxxxx1, .bxxxxxx2, .bxxxxxx3 {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.bxxxxxx1 {
+    background: red;
+    border-radius: 50px;
+    position: absolute;
+    top: 5%;
+    left: 25%;
+
+}
+
+.bxxxxxx2 {
+    background: blue;
+    border-radius: 50px;
+    position: absolute;
+    top: 40%;
+    left: 25%;
+
+}
+
+.bxxxxxx3 {
+    background: green;
+    border-radius: 50px;
+    position: absolute;
+    top: 75%;
+    left: 25%;
+}
+-------------------------------------
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.bks{
+    width: 620px;
+    height: 640px;
+    border: 1px solid black;
+    background: #fff;
+    margin: 50px auto 0;
+}
+
+.bks1, .bks2, .bks3 {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.bks1 {
+    background: #fff;
+    border-radius: 50px;
+    position: absolute;
+    top: 20%;
+    right: 20%;
+}
+
+.bks2 {
+    background: #fff;
+    border-radius: 50px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+
+.bks3 {
+    background: #fff;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+
+.bks4 {
+    background: #fff;
+    width: 180px;
+    height: 35px;
+    order: 1px solid black;
+    position: absolute;
+    border: 1px solid black;
+    top: 75%;
+    left: 35%;
+}
+
+.circle {
+    border: 1px solid black;
+    border-radius: 320px;
+    background: lawngreen;
+    position: relative;
+    height: 95%;
+    width: 95%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+----------------------------------------------------
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    color: #fff;
+    font-size: 20px;
+    height: 100%;
+
+}
+.up {
+    width: 100%;
+
+    text-align: center;
+    background: green;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.down {
+    width: 100%;
+
+    text-align: center;
+    background: darkorchid;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
