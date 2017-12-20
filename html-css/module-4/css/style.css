@@ -79,7 +79,8 @@
 }
 
 .aside {
-    float: right;
+    display: inline-block;
+    margin-left: 22px;
     width: 235px;
 }
 .aside-h2 {
@@ -125,10 +126,6 @@
     margin-right: 10px;
 }
 
-.list-item {
-    margin-bottom: 20px;
-}
-
 article {
     float: left;
     width: calc(100% - 40px);
@@ -150,7 +147,7 @@ article {
     list-style: none;
 }
 
-.list-item:last-child, .list-item2:last-child {
+.list-item2:last-child {
     margin-bottom: 0;
 }
 

@@ -1,0 +1,39 @@
+.wrapper {
+    max-width:  1000px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+a {
+
+
+
+
+}
+
+a:hover {
+    background: #000;
+}
+
+.flex-nav ul {
+    display: flex;
+    list-style: none;
+    border: 1px solid #000;
+}
+
+.flex-nav li {
+    /*flex: 1;*/
+    flex-grow: 3;
+}
+
+.flex-nav .list-item {
+    /*flex: 1;*/
+    flex-grow: 1;
+
+}
+
+li:
+fb 50$ 25% 4 sulo4ku
+fg 1
+fs 1
+

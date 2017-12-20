@@ -13,36 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/../../html-css/module-4/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="678">
-                  <caret line="74" column="35" lean-forward="false" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="35" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/../../html-css/module-4/css/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="304">
-                  <caret line="152" column="23" lean-forward="false" selection-start-line="152" selection-start-column="23" selection-end-line="152" selection-end-column="23" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -152,16 +123,15 @@
       <workItem from="1513580258426" duration="12903000" />
       <workItem from="1513597113002" duration="36648000" />
       <workItem from="1513706997453" duration="23925000" />
-      <workItem from="1513753047402" duration="4585000" />
+      <workItem from="1513753047402" duration="5493000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167904000" />
+    <option name="totallyTimeSpent" value="168812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24907847" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -366,18 +336,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../html-css/module-4/100.css" />
     <entry file="file://$PROJECT_DIR$/../../html-css/module-4/100.html" />
-    <entry file="file://$PROJECT_DIR$/../../html-css/module-4/index.html">
+    <entry file="file://$PROJECT_DIR$/../../html-css/module-4/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="74" column="35" lean-forward="false" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="35" />
+        <state relative-caret-position="170">
+          <caret line="152" column="0" lean-forward="false" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../html-css/module-4/css/style.css">
+    <entry file="file://$PROJECT_DIR$/../../html-css/module-4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="152" column="23" lean-forward="false" selection-start-line="152" selection-start-column="23" selection-end-line="152" selection-end-column="23" />
+        <state relative-caret-position="693">
+          <caret line="74" column="35" lean-forward="false" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="35" />
           <folding />
         </state>
       </provider>
