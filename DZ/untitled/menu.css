@@ -1,39 +1,69 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
 .wrapper {
-    max-width:  1000px;
-    margin: 0 auto;
+    background-image:linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
+    max-width: 600px;
+    height: 600px;
     padding: 50px;
+    margin: 0;
 }
 
-a {
+/*a {*/
 
 
 
 
-}
+/*}*/
 
-a:hover {
-    background: #000;
-}
+/*a:hover {*/
+    /*background: #000;*/
+/*}*/
+
+/*.flex-nav ul {*/
+    /*display: flex;*/
+    /*list-style: none;*/
+    /*border: 1px solid #000;*/
+/*}*/
+
+/*.flex-nav li {*/
+    /*!*flex: 1;*!*/
+    /*flex-grow: 3;*/
+/*}*/
+
+/*.flex-nav .list-item {*/
+    /*!*flex: 1;*!*/
+    /*flex-grow: 1;*/
+
+/*}*/
+
+/*li:*/
+/*fb 50$ 25% 4 sulo4ku*/
+/*fg 1*/
+/*fs 1*/
 
 .flex-nav ul {
-    display: flex;
     list-style: none;
-    border: 1px solid #000;
+    border: 1px solid #b3d4fc;
+    display: flex;
+    flex-wrap: wrap;
 }
 
+.flex-nav a {
+    text-align: center;
+    display: block;
+    padding: 10px;
+    color: #cecece;
+    text-decoration: none;
+    transition: all.1s;
+}
+
+.flex-nav a:hover {
+    background-color: red;
+}
 .flex-nav li {
-    /*flex: 1;*/
-    flex-grow: 3;
-}
-
-.flex-nav .list-item {
-    /*flex: 1;*/
     flex-grow: 1;
-
 }
-
-li:
-fb 50$ 25% 4 sulo4ku
-fg 1
-fs 1
-
