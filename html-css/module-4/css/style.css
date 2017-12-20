@@ -186,7 +186,8 @@ article {
 }
 
 .ul2 {
-    float: right;
+    float: left;
+    margin-right: 43px;
 }
 
 .article2 {
@@ -215,7 +216,6 @@ h4 {
 }
 
 .pic-text {
-
     position: absolute;
     background: #fcfafa;
     bottom: 113px;
@@ -224,6 +224,7 @@ h4 {
     padding: 22px 21px 49px 23px;
     z-index: 2;
 }
+
 .pic-text:after {
     content:"\"";
     color: #697689;
@@ -241,6 +242,7 @@ h4 {
     border-right: 20px solid transparent;
     border-top: 20px solid #fcfafa;
 }
+
 .arrow-down {
     position: relative;
     bottom: 93px;
