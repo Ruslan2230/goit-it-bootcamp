@@ -79,7 +79,7 @@
 }
 
 .aside {
-    margin-left: 20px;
+
     float: right;
     width: 235px;
 }
@@ -212,7 +212,7 @@ ul {
 }
 
 .content2 {
-    padding: 58px 60px 88px 61px;
+    /*padding: 58px 60px 88px 61px;*/
     width: 1024px;
 }
 
