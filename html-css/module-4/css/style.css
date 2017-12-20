@@ -20,17 +20,13 @@
 
 .content-box {
     font-family: Arial sans-serif;
-
-    margin: auto;
     border-bottom: 1px solid #988b8b;
-
 }
 
 .content-box2 {
     font-family: Arial sans-serif;
     padding: 58px 0 88px 0;
     margin: auto;
-
 }
 
 .content-con {
@@ -38,7 +34,6 @@
     margin: auto;
     background-color: #fff;
     padding: 117px 60px 54px 61px;
-
 }
 
 .article {
@@ -81,7 +76,6 @@
 .aside {
     display: inline-block;
     margin-left: 22px;
-    width: 235px;
 }
 .aside-h2 {
     padding-left: 38px;
