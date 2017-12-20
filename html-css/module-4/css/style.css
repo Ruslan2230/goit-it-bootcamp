@@ -20,32 +20,25 @@
 
 .content-box {
     font-family: Arial sans-serif;
-    width: 1024px;
-    background-color: #fff;
+
     margin: auto;
+    border-bottom: 1px solid #988b8b;
 
 }
 
 .content-box2 {
     font-family: Arial sans-serif;
-    width: 1024px;
-    background-color: #fff;
+
     margin: auto;
 
 }
 
-.content {
+.content-con {
+    width: 1024px;
+    margin: auto;
+    background-color: #fff;
     padding: 117px 60px 54px 61px;
 
-}
-
-.border {
-    position: absolute;
-    left: 280px;
-    width: 903px;
-    border-bottom: 1px solid #988b8b;
-    margin: 0 auto;
-    z-index: 1;
 }
 
 .article {
@@ -254,17 +247,12 @@ h4 {
     color: #10078;
 }
 
-
-
-
-
 .arrow-down {
     width: 0;
     height: 0;
     border-left: 20px solid transparent;
     border-right: 20px solid transparent;
     border-top: 20px solid #fcfafa;
-
 }
 .arrow-down {
     position: relative;
