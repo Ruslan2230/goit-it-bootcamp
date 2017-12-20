@@ -28,7 +28,7 @@
 
 .content-box2 {
     font-family: Arial sans-serif;
-
+    padding: 58px 0 88px 0;
     margin: auto;
 
 }
@@ -79,7 +79,6 @@
 }
 
 .aside {
-
     float: right;
     width: 235px;
 }
@@ -94,7 +93,6 @@
 }
 .aside-h3 {
     margin-bottom: 23px;
-
 }
 
 .text-li {
@@ -152,7 +150,7 @@ article {
     list-style: none;
 }
 
-.list-item2:last-child {
+.list-item:last-child, .list-item2:last-child {
     margin-bottom: 0;
 }
 
@@ -212,8 +210,8 @@ ul {
 }
 
 .content2 {
-    /*padding: 58px 60px 88px 61px;*/
-    width: 1024px;
+    /*padding: 58px 0 88px 0;*/
+
 }
 
 h4 {
@@ -238,12 +236,12 @@ h4 {
     z-index: 2;
 }
 .pic-text:after {
-    content:"\8220  ";
+    content:"\"";
     color: #697689;
 }
 
 .pic-text:before {
-    content:"\8221  ";
+    content:"\"";
     color: #10078;
 }
 
@@ -261,3 +259,6 @@ h4 {
     z-index: 9;
 }
 
+article:last-child {
+    margin-bottom: 0;
+}
