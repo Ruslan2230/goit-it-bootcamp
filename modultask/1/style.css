@@ -758,7 +758,7 @@
 }
 
 .flex-nav6 a {
-    text-align: center;
+
     display: block;
     padding: 5px;
     color: #cecece;
@@ -771,18 +771,22 @@
 }
 
 .list-item8 {
+    display: flex;
+
     max-width: 900px;
     height: 400px;
-
-    justify-content: flex-start;
     flex-direction: column;
     align-items: center;
 }
 
 .item6 {
+
     width: 300px;
     border: 1px solid #3ef;
 }
 .select6 {
+    display: flex;
+    text-align: left;
     background: #2376ae;
+
 }
