@@ -212,7 +212,7 @@
 
 .outside {
     position: absolute;
-    bottom: 408px;
+    bottom: 528px;
     width: 217px;
     height: 72px;
     background: #404040;
@@ -222,8 +222,8 @@
 }
 .outside2 {
     position: absolute;
-    bottom: 418px;
-    left: 1280px;
+    bottom: 539px;
+    left: 1173px;
     z-index: 1;
 }
 .outside-text {
@@ -275,5 +275,5 @@
 }
 
 .span4 {
-    color: ##656565;
+    color: #656565;
 }
