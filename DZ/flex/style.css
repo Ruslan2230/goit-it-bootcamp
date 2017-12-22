@@ -212,7 +212,7 @@
 
 .outside {
     position: absolute;
-    bottom: 408px;
+    bottom: 358px;
     width: 217px;
     height: 72px;
     background: #404040;
@@ -222,8 +222,8 @@
 }
 .outside2 {
     position: absolute;
-    bottom: 417px;
-    left: 1290px;
+    bottom: 385px;
+    left: 1170px;
     z-index: 1;
 }
 .outside-text {
@@ -270,10 +270,10 @@
     margin: auto;
     background-image: url("img/menu2.png");
     background-repeat: repeat-x;
-    width: 1400px;
+    width: 100%;
     height: 5px;
 }
 
 .span4 {
-    color: #656565;
+    color: ##656565;
 }
