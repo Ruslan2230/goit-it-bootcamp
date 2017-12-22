@@ -212,7 +212,7 @@
 
 .outside {
     position: absolute;
-    bottom: 358px;
+    bottom: 408px;
     width: 217px;
     height: 72px;
     background: #404040;
@@ -222,8 +222,8 @@
 }
 .outside2 {
     position: absolute;
-    bottom: 385px;
-    left: 1170px;
+    bottom: 418px;
+    left: 1280px;
     z-index: 1;
 }
 .outside-text {
@@ -254,7 +254,7 @@
 }
 
 .footer-box {
-    display:flex;
+    display: flex;
     width: 830px;
 }
 
