@@ -202,7 +202,7 @@
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 20px solid #e8e8e8;
-    left: 36%;
+    left: 38%;
 }
 
 .block-img {
@@ -212,18 +212,18 @@
 
 .outside {
     position: absolute;
-
+    z-index: 1;
     width: 217px;
     height: 80px;
     background: #404040;
     padding-top: 14px;
     padding-left: 16px;
-    top: 495px;
+    top: 345px;
 }
 .outside2 {
     position: absolute;
-    bottom: 385px;
-    left: 1065px;
+    bottom: 14px;
+    left: 803px;
     z-index: 1;
 }
 .outside-text {
@@ -249,7 +249,7 @@
     font-size: 37px;
 }
 
-.over {
+.pic {
     position: relative;
 }
 
