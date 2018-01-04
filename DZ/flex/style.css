@@ -169,16 +169,22 @@
 
 .footer {
     display: flex;
+    align-items: center;
     background-color: #f5f5f5;
     height: 70px;
-    justify-content: space-between;
+    justify-content: center;
 }
 
-.footer-text {
-    font-size: 16px;
+.footer-text1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
     color: rgba(155, 155, 155, 255);
-    display:flex;
-    flex-basis: 700px;
+    flex-basis: 730px;
+}
+.footer-text2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color: rgba(155, 155, 155, 255);
 }
 
 .after, .befor {
@@ -251,19 +257,6 @@
 
 .pic {
     position: relative;
-}
-
-.footer-box {
-    display: flex;
-    width: 830px;
-}
-
-.footer-text {
-    flex-basis: 429px;
-    color: rgba(155, 155, 155, 255);
-    font-family: 'Open Sans', sans-serif;
-    font-size: 12px;
-    margin: auto;
 }
 
 .line-footer {
