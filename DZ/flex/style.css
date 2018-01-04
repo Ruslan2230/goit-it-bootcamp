@@ -152,13 +152,13 @@
 .line {
     display: flex;
     width: 940px;
-    margin-bottom: 53px;
+    padding-bottom: 53px;
     justify-content: space-between;
 }
 
 .main-block {
     display: flex;
-    margin-bottom: 53px;
+    padding-bottom: 53px;
     justify-content: space-between;
 }
 .block {
@@ -212,18 +212,18 @@
 
 .outside {
     position: absolute;
-    bottom: 528px;
+
     width: 217px;
-    height: 72px;
+    height: 80px;
     background: #404040;
-    z-index: 1;
     padding-top: 14px;
     padding-left: 16px;
+    top: 495px;
 }
 .outside2 {
     position: absolute;
-    bottom: 539px;
-    left: 1300px;
+    bottom: 385px;
+    left: 1065px;
     z-index: 1;
 }
 .outside-text {
