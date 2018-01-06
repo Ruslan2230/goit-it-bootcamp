@@ -224,12 +224,12 @@
     background: #404040;
     padding-top: 14px;
     padding-left: 16px;
-    top: 345px;
+    top: 495px;
 }
 .outside2 {
     position: absolute;
-    bottom: 14px;
-    left: 803px;
+    bottom: 386px;
+    left: 1162px;
     z-index: 1;
 }
 .outside-text {
@@ -257,6 +257,9 @@
 
 .pic {
     position: relative;
+    display: flex;
+    width: 100%;
+    height: 100%;
 }
 
 .line-footer {
