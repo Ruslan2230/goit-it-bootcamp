@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55ba3aeb-ec62-469a-bb59-dfad512813c0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../flex/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../flex/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../flex/css/8.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../flex/css/home.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../flex/css/sdsdsdsdsd.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../flex/html/home.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../html-css/module-7/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/../flex/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../flex/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="55ba3aeb-ec62-469a-bb59-dfad512813c0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -252,7 +242,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209944000" />
+    <option name="totallyTimeSpent" value="210216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
