@@ -2,18 +2,53 @@
 @import "header.css";
 @import "Footer.css";
 
+
 .above {
+    background-color: #fff;
     padding: 3.688rem 2.313rem 3.313rem;
 }
 
-.title {
+.above__title, .offer__title, .principles__title, .testimonial__title {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 1.563rem;
+    text-transform: uppercase;
+}
+.above__top {
+    border-bottom: 1px solid #dedbdb;
+}
+.above:after {
+    content: "\f062";
+    font-family: "FontAwesome", sans-serif;
+    display: block;
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: #38afe5;
+    border-radius: 50%;
+    position: fixed;
+    right: 1.5%;
+    bottom: 1.5%;
+    color: #ffffff;
+    text-align: center;
+    line-height: 1.5rem;
+    font-size: 0.75rem;
+}
+
+.above__title {
+    margin-bottom: 2rem;
+}
+
+.above__button {
+    padding-top: 3.313rem;
+}
+
+.principles__title {
     font-size: 1.563em;
     font-family: 'Pathway Gothic One', sans-serif;
     margin-bottom: 2rem;
     color:  #263555;
 }
 
-.img {
+.above__img {
     margin-bottom: 1.688rem;
 }
 
@@ -23,38 +58,43 @@
     font-size: 0.875em;
     line-height: 1.357;
     text-align: left;
-    margin-bottom: 1.375rem;
-    display: inline-block;
-
+    margin-bottom: 0.9375rem;
 }
+
 .list__item {
     position: relative;
     padding-left: 30px;
 }
+
+.list__item {
+    margin-bottom: 1.5rem;
+}
+
+.list__item:last-child {
+    margin-bottom: 0;
+}
+
 .text {
     font-family: Arial sans-serif;
     color:  #4e5050;
-    font-size: 0.75em;
-    line-height: 1.417;
+    font-size: 0.75rem;
+    line-height: 1.3rem;
     text-align: left;
+    font-weight: 400;
 }
-
-.principles__title {
-    margin-bottom: 1.813rem;
+.about-pic {
+    height: auto;
 }
 
 .offer__title {
     margin-bottom: 1.5rem;
 }
 
-.list {
-    /*list-style: none;*/
+.principles__list {
     counter-reset: list;
-    vertical-align: center;
 }
 
-.list__item:before {
-    /*display: block;*/
+.list__item--before:before {
     counter-increment: list;
     content: counter(list);
     width: 30px;
@@ -66,17 +106,149 @@
     line-height: 30px;
     position: absolute;
     left: -7px;
-    top: -7px;
-
+    top: 7px;
 }
 
-/*article {*/
-
-    /*width: calc(100% - 2.5rem);*/
-/*}*/
-
-
-.offer-buttom__list-item:before {
+.fa-long-arrow-right:before {
     content: "\2192 ";
     color: aqua;
+    position: absolute;
+    left: 9px;
+    bottom: 3px;
+}
+
+.principles {
+    padding: 3.125rem 0;
+}
+
+.offer__list {
+    display: inline-block;
+    margin-top: 2.313rem;
+    margin-bottom: 4.125rem;
+    font-size: 0.75rem;
+    font-weight: bold;
+}
+
+.offer__list:last-child {
+    margin-bottom: 0;
+}
+
+.offer__list:nth-child(2) {
+    vertical-align: top;
+}
+
+.offer__box {
+    display: flex;
+    justify-content: space-around;
+}
+
+.testimonial__title{
+    margin-bottom: 1.938rem;
+}
+
+.testimonial_text {
+    position: absolute;
+    bottom: 84px;
+    left: 25px;
+    width: 211px;
+    text-align: center;
+    font-size: 0.875rem;
+    font-weight: bold;
+}
+
+.testimonial_img {
+    display: block;
+    position: relative;
+    margin: 0 auto 1.188rem;
+}
+
+.box {
+ position: relative;
+    text-align: center;
+}
+
+.agency__text2 {
+    display: none;
+}
+
+.clearfix::after {
+    display: block;
+    content: '';
+    clear: both;
+}
+h4 {
+    margin-bottom: 1.188rem;
+}
+@media (min-width: 768px) {
+    .agency__text2 {
+        display: block;
+    }
+
+    .principles__list {
+        display: flex;
+    }
+
+    .above__button {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .offer {
+        flex-basis: 60%;
+    }
+
+    /*.list__item {*/
+    /*width: 27%;*/
+    /*}*/
+    .about-pic {
+        float: left;
+        margin-right: 1.5rem;
+    }
+
+    .testimonial_text {
+        width: 9.375rem;
+    }
+
+    .offer {
+        margin: 0 0.9375rem 0 0;
+    }
+}
+
+@media (min-width: 1024px) {
+
+    .above__top {
+        display: flex;
+    }
+    .above-agency {
+        flex-basis: 848%;
+        margin-right: 3.25rem;
+    }
+    .principles {
+        padding: 0;
+    }
+    .principles__list {
+        flex-wrap: wrap;
+    }
+
+    .principles-list {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+    }
+    .list__item {
+        width: 100%;
+    }
+    .testimonial_text {
+        width: 10rem;
+    }
+    .offer {
+        flex-basis: 68%;
+    }
+    .agency__text2 {
+        padding-bottom: 2rem;
+    }
+    .list__item {
+        margin-bottom: 2rem;
+    }
 }
