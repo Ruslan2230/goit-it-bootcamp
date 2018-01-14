@@ -2,8 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8db434eb-57ed-4081-ade0-a496f85bdbee" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/About/img/Layer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/About/img/Layer85.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/About/img/page-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/bg/Background.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/bg/Background.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/bg/Forest.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/bg/Forest.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/bg/section3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/fonts/HammersmithOne.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/img/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/img/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/img/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/img/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/img/VectorSmart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/img/css_sprites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/img/css_sprites2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/img/overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/img/right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/img/section1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/img/section5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/img/section7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/img/section9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/Layer85.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/Rounded Rectangle 1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/Rounded Rectangle 2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/Shape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/china.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/fasebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/google.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/hotel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/mount.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/page-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/paris.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/plane.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/rum.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/sea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/tower.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/twiter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/waterfall.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/img/mob/winter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/font/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/font/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/img/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/img/css_sprites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/img/f1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/img/f2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/img/fon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/About/.idea/About.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/About/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/About/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/About/Footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/About/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/About/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/.idea/flex2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex-pex/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ/flex/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gallery/.idea/Gallery.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gallery/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gallery/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/.idea/flex.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/css/8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/css/Footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/css/about.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/css/gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/css/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/css/home.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/css/sdsdsdsdsd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/html/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/html/gallery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flex/html/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/.idea/module-7.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/index1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/style1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/style2.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goit-it-bootcamp" afterPath="$PROJECT_DIR$/goit-it-bootcamp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DZ/flex/.idea/workspace.xml" afterPath="$PROJECT_DIR$/DZ/flex/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TOUR/.idea/workspace.xml" afterPath="$PROJECT_DIR$/TOUR/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TOUR/css/about.css" afterPath="$PROJECT_DIR$/TOUR/css/about.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TOUR/html/about.html" afterPath="$PROJECT_DIR$/TOUR/html/about.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,7 +115,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -71,7 +166,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/goit-it-bootcamp/TOUR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
@@ -150,11 +245,12 @@
       <workItem from="1515471975701" duration="22091000" />
       <workItem from="1515558427418" duration="441000" />
       <workItem from="1515829748129" duration="822000" />
+      <workItem from="1515943964720" duration="30000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32137000" />
+    <option name="totallyTimeSpent" value="32167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -162,7 +258,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -193,10 +289,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1207">
           <caret line="95" column="72" lean-forward="false" selection-start-line="95" selection-start-column="72" selection-end-line="95" selection-end-column="72" />
-          <folding>
-            <element signature="n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -204,7 +296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -212,10 +303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1207">
           <caret line="95" column="72" lean-forward="true" selection-start-line="95" selection-start-column="72" selection-end-line="95" selection-end-column="72" />
-          <folding>
-            <element signature="n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -223,7 +310,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -231,10 +317,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
           <caret line="75" column="24" lean-forward="true" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
-          <folding>
-            <element signature="n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -242,7 +324,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -264,10 +345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <element signature="n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -275,7 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-85">
           <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>

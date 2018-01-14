@@ -1,0 +1,122 @@
+/*@font-face {*/
+    /*font-family: "glyphicons-halflings-regular.woff";*/
+    /*src: url("font/glyphicons-halflings-regular.woff");*/
+/*}*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    display: flex;
+    font-family: 'Sirin Stencil', cursive;
+    background-image: url("img/banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.header {
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 28px;
+}
+
+.big {
+    text-transform: capitalize;
+}
+
+.text1{
+    color: #fff;
+    margin-bottom: 20px;
+    font-size: 19px;
+
+}
+
+.main {
+    margin: auto;
+    text-align: center;
+}
+
+.form {
+    background-color:  rgba(19, 19, 19, 0.5);
+    padding: 40px 51px;
+
+    height: 445px;
+}
+
+.text2 {
+    color: #fff;
+    font-size: 14px;
+}
+.middle{
+    display: flex;
+    justify-content: space-between;
+}
+
+.click {
+    text-transform: capitalize;
+    color: #365d0b;
+}
+
+.text, .password {
+    display: block;
+    width: 370px;
+    height: 35px;
+    margin-bottom: 20px;
+    background-color: rgba(124, 124, 124, 0.2);
+}
+
+.text {
+    margin-bottom: 25px;
+}
+.footer, .right {
+    display: block;
+    color: #fff;
+}
+
+.bg-twitter {
+    background: url('img/css_sprites.png') -10px -10px;
+}
+
+.bg-facebook {
+    background: url('img/css_sprites.png') -54px -10px;
+}
+
+.bg-linkedin {
+    background: url('img/css_sprites.png') -10px -54px;
+}
+
+.link {
+    display: block;
+    border: 1px solid #ffffff;
+    margin-right: 3px;
+    width: 24px;
+    height: 24px;
+}
+.footer {
+    font-size: 12px;
+    text-align: center;
+}
+.submit {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 120px;
+    height: 30px;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 1px solid;
+    margin-bottom: 45px;
+}
+
+.logo {
+    display: flex;
+}
+
+.right {
+    margin-right: 20px;
+}

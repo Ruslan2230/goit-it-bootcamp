@@ -1,0 +1,82 @@
+@import "base.css";
+@import "header.css";
+@import "Footer.css";
+
+.above {
+    padding: 3.688rem 2.313rem 3.313rem;
+}
+
+.title {
+    font-size: 1.563em;
+    font-family: 'Pathway Gothic One', sans-serif;
+    margin-bottom: 2rem;
+    color:  #263555;
+}
+
+.img {
+    margin-bottom: 1.688rem;
+}
+
+.sub-title {
+    font-family: Arial sans-serif;
+    color:  #263555;
+    font-size: 0.875em;
+    line-height: 1.357;
+    text-align: left;
+    margin-bottom: 1.375rem;
+    display: inline-block;
+
+}
+.list__item {
+    position: relative;
+    padding-left: 30px;
+}
+.text {
+    font-family: Arial sans-serif;
+    color:  #4e5050;
+    font-size: 0.75em;
+    line-height: 1.417;
+    text-align: left;
+}
+
+.principles__title {
+    margin-bottom: 1.813rem;
+}
+
+.offer__title {
+    margin-bottom: 1.5rem;
+}
+
+.list {
+    /*list-style: none;*/
+    counter-reset: list;
+    vertical-align: center;
+}
+
+.list__item:before {
+    /*display: block;*/
+    counter-increment: list;
+    content: counter(list);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: deepskyblue;
+    color: #fefefe;
+    text-align: center;
+    line-height: 30px;
+    position: absolute;
+    left: -7px;
+    top: -7px;
+
+}
+
+/*article {*/
+
+    /*width: calc(100% - 2.5rem);*/
+/*}*/
+
+
+.offer-buttom__list-item:before {
+    content: "\2192 ";
+    color: aqua;
+}
